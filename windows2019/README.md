@@ -33,4 +33,3 @@ Download and Install Windows ADK
 https://go.microsoft.com/fwlink/?linkid=2120254
 
 Import **autounattend.xml** file and make the changes or create your own file following the intructions: https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/update-windows-settings-and-scripts-create-your-own-answer-file-sxs
-
