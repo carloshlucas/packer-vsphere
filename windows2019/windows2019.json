@@ -62,7 +62,7 @@
       "inline": [
         "ipconfig"
       ],
-      "type": "windows-shel"
+      "type": "windows-shell"
     }
   ]
   
