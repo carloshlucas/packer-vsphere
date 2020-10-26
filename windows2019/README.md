@@ -3,7 +3,7 @@
 
 ### How to create variable file
 
-You need to create this file before run the command to build your template.
+You need to create this file before running the command to build your template.
 
 ```
 {
