@@ -19,7 +19,7 @@ Save this file in the same local as your **windows2019.json** file.
 ###  Type the command below
 
 ```
-packer build -var-file="variables-vars.json windows2019.json
+packer build -var-file="variables-vars.json" windows2019.json
 ```
 
 ### Variables
